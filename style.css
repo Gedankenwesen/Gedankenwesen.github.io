@@ -1,0 +1,20 @@
+﻿body {
+    background-color:grey;
+    padding:10px;
+}
+b {
+    color:greenyellow;
+}
+a {
+    color:orangered;
+}
+img {
+    width:200px;
+    padding:20px;
+}
+.jojo {
+    color:aqua;
+}
+h1, h2{
+    color:darkblue;
+}
